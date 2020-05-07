@@ -1,0 +1,17 @@
+[Event "Elites Sharp, Blitz 3min+2sec-1"]
+[Site "https://lichess.org/voJzsUkG"]
+[Date "2020.04.03"]
+[Round "2.7"]
+[White "Ethereal 12.00 (PEXT)"]
+[Black "Lc0 v0.23.2+git.c8d9095, 58462."]
+[Result "0-1"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[Variant "Standard"]
+[TimeControl "-"]
+[ECO "A55"]
+[Opening "Old Indian Defense: Normal Variation"]
+[Termination "Normal"]
+[Annotator "lichess.org"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. e4 e5 5. Nf3 { A55 Old Indian Defense: Normal Variation } c6?! { (0.47 → 1.01) Inaccuracy. g6 was best. } (5... g6 6. Be2 Bg7 7. O-O exd4 8. Nxd4 Nc5 9. f3 O-O 10. Be3) 6. Be2 exd4?! { (0.56 → 1.53) Inaccuracy. a6 was best. } (6... a6 7. Qc2 b5 8. a3 Be7 9. O-O O-O 10. Rd1 Qc7 11. cxb5) 7. Nxd4 g6 8. Bf4 Nc5 9. f3 Nh5 10. Be3 Bg7 11. g3 a5 12. Qd2 a4 13. O-O-O Qe7 14. g4 Nf6 15. Bf4 Bxg4 16. Qe3?! { (2.49 → 1.87) Inaccuracy. Ndb5 was best. } (16. Ndb5) 16... O-O?! { (1.87 → 2.63) Inaccuracy. a3 was best. } (16... a3 17. Ndb5) 17. fxg4 a3?! { (2.33 → 3.17) Inaccuracy. Nfxe4 was best. } (17... Nfxe4 18. Bf3) 18. b3?! { (3.17 → 2.05) Inaccuracy. Nf5 was best. } (18. Nf5) 18... Nfxe4 19. Bf3 Nxc3 20. Qxe7 Nxa2+ 21. Kb1?? { (1.74 → 0.00) Blunder. Kd2 was best. } (21. Kd2) 21... Nb4 22. Qe3 a2+? { (0.57 → 2.08) Mistake. Ne6 was best. } (22... Ne6 23. Bxd6) 23. Kb2 Ne6 24. Bxd6 c5 25. Bxc5 Nxc5 26. Kc3 Nba6 27. Bd5 Nc7 28. Kc2?! { (2.10 → 1.42) Inaccuracy. Rhe1 was best. } (28. Rhe1 Rfe8) 28... Nxd5 29. cxd5 Na6 30. Kb2 Nc7 31. Rd2? { (1.38 → 0.17) Mistake. Ka1 was best. } (31. Ka1 Rfd8) 31... Nxd5 32. Qg3 Nb4 33. Ra1 Rad8 34. Qc3 Nc6 35. Rad1 Nxd4 36. Rxd4 Rc8 37. Qb4 Ra8 38. Ka1 Rfe8 39. Qc3? { (1.45 → 0.23) Mistake. g5 was best. } (39. g5 Red8 40. Qc3 Rdc8 41. Qd2 Rd8 42. Qb2 Re8 43. Rf1 Re3 44. b4 Rb3 45. Rfd1 Rxb2) 39... Rec8 40. Qd2 Rd8?! { (0.52 → 1.47) Inaccuracy. h6 was best. } (40... h6) 41. Qb2 Rdc8 42. g5 Rf8?! { (2.10 → 3.05) Inaccuracy. Re8 was best. } (42... Re8 43. h3) 43. Rf1 Rfe8 44. Qc3?! { (3.60 → 2.66) Inaccuracy. Rfd1 was best. } (44. Rfd1 Ra5) 44... Rac8 45. Qd2 Rc2 46. Qf4 Kh8 47. h4?? { (4.18 → 0.83) Blunder. Rd1 was best. } (47. Rd1 Kg8) 47... Rce2 48. Rd1 Kg8?? { (0.67 → 3.26) Blunder. Rc8 was best. } (48... Rc8) 49. Qd6 Be5

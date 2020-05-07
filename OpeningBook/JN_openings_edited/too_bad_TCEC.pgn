@@ -1,0 +1,1388 @@
+﻿[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "King's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E97"]
+[Annotator "game 4, depth=34 val=69 filter=[-50/60] statu"]
+[PlyCount "28"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. b4 Nf6 14. c5 Ng6 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Sicilian"]
+[Black "?"]
+[Result "*"]
+[ECO "B30"]
+[Annotator "game 9, depth=37 val=72 filter=[-50/60] statu"]
+[PlyCount "26"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Bd7 10. O-O-O Rc8 11. Bb3 Ne5 12. h4 Nc4 13. Bxc4 Rxc4 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Chigorin Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "E04"]
+[Annotator "game 14, depth=36 val=69 filter=[-50/60] stat"]
+[PlyCount "18"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. bxc3 Qd6 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Sicilian"]
+[Black "?"]
+[Result "*"]
+[ECO "B64"]
+[Annotator "game 17, depth=38 val=73 filter=[-50/60] stat"]
+[PlyCount "18"]
+[EventDate "2015.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Ruy Lopez"]
+[Black "?"]
+[Result "*"]
+[ECO "C83"]
+[Annotator "game 19, depth=38 val=65 filter=[-50/60] stat"]
+[PlyCount "6"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.17"]
+[Round "?"]
+[White "King's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "D10"]
+[Annotator "game 22, depth=35 val=78 filter=[-50/60] stat"]
+[PlyCount "20"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2 f5
+9. exf5 gxf5 10. O-O-O Nd7 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Caro-Kann"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Annotator "game 23, depth=37 val=82 filter=[-50/60] stat"]
+[PlyCount "10"]
+[EventDate "2015.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.??.??"]
+[Round "?"]
+[White "Dutch"]
+[Black "?"]
+[Result "*"]
+[ECO "A83"]
+[Annotator "game 24, depth=34 val=-59 filter=[-50/60] sta"]
+[PlyCount "15"]
+[EventDate "2015.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 c6 8. Rb1 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Frankenstein-Dracula gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C54"]
+[Annotator "game 28, depth=36 val=71 filter=[-50/60] stat"]
+[PlyCount "20"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 8.
+Qd5 Qf6 9. Nxc7+ Kd8 10. Nxa8 b6 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Slav"]
+[Black "?"]
+[Result "*"]
+[ECO "D27"]
+[Annotator "game 33, depth=39 val=72 filter=[-50/60] stat"]
+[PlyCount "16"]
+[EventDate "2015.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e4 Bg4 7. Bxc4 e6 8. Be3
+Nb4 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Queen's Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "E17"]
+[Annotator "game 37, depth=39 val=64 filter=[-50/60] stat"]
+[PlyCount "18"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 d5 6. Bg2 dxc4 7. Ne5 Bb4+ 8. Kf1
+Bd6 9. Nxc4 Nd5 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Two Knights"]
+[Black "?"]
+[Result "*"]
+[ECO "C56"]
+[Annotator "game 42, depth=35 val=-75 filter=[-50/60] sta"]
+[PlyCount "21"]
+[EventDate "2015.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+ Ke6
+8. Nc3 Ncb4 9. O-O c6 10. d4 Qf6 11. Qe2 *
+
+[Event "TCEC"]
+[Site "Noomen Selection"]
+[Date "2015.07.11"]
+[Round "?"]
+[White "Benko Gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "E25"]
+[Annotator "game 43, depth=37 val=-67 filter=[-50/60] sta"]
+[PlyCount "23"]
+[EventDate "2015.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. g3 Bg7 10. Kg2 O-O 11. Nf3 Nbd7 12. h3 *
+
+[Event "TCEC10"]
+[Site "Noomen Selection"]
+[Date "2016.12.15"]
+[Round "?"]
+[White "Slav Moscow gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "D47"]
+[Annotator "game 54, depth=37 val=-70 filter=[-50/60] sta"]
+[PlyCount "25"]
+[EventDate "2016.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Ne5 Bb7 10. h4 g4 11. Be2 h5 12. O-O Nbd7 13. Qc2 *
+
+[Event "TCEC10"]
+[Site "Noomen Selection"]
+[Date "2016.12.15"]
+[Round "?"]
+[White "Sicilian Rauzer"]
+[Black "Fischer-Spassky"]
+[Result "*"]
+[ECO "B64"]
+[Annotator "game 59, depth=36 val=-54 filter=[-50/60] sta"]
+[PlyCount "23"]
+[EventDate "2016.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6 gxf6 12. Kb1 *
+
+[Event "TCEC10"]
+[Site "Noomen Selection"]
+[Date "2016.12.15"]
+[Round "?"]
+[White "Ruy Lopez Bird 3... Nd4"]
+[Black "?"]
+[Result "*"]
+[ECO "C63"]
+[Annotator "game 81, depth=38 val=67 filter=[-50/60] stat"]
+[PlyCount "10"]
+[EventDate "2016.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 4. Nxd4 exd4 5. O-O Bc5 *
+
+[Event "TCEC10"]
+[Site "Noomen Selection"]
+[Date "2016.12.15"]
+[Round "?"]
+[White "Scotch Game 4... Bb4+"]
+[Black "?"]
+[Result "*"]
+[ECO "C54"]
+[Annotator "game 87, depth=39 val=68 filter=[-50/60] stat"]
+[PlyCount "14"]
+[EventDate "2016.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bb4+ 5. c3 Be7 6. Nxc6 bxc6 7. Bd3 d6 *
+
+[Event "TCEC10"]
+[Site "Noomen Selection"]
+[Date "2016.12.15"]
+[Round "?"]
+[White "Dutch classical"]
+[Black "Reshevsky-Botwinnik"]
+[Result "*"]
+[ECO "A30"]
+[Annotator "game 88, depth=36 val=-60 filter=[-50/60] sta"]
+[PlyCount "13"]
+[EventDate "2016.??.??"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nh3 O-O 6. O-O d6 7. Nc3 *
+
+[Event "TCEC10"]
+[Site "Noomen Selection"]
+[Date "2016.12.15"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "D10"]
+[Annotator "game 98, depth=40 val=74 filter=[-50/60] stat"]
+[PlyCount "30"]
+[EventDate "2016.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 13. c5 g5 14. Rc1 Ng6 15. cxd6
+cxd6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E87"]
+[Annotator "game 101, depth=41 val=115 filter=[-50/60] st"]
+[PlyCount "22"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Qh4+ 9. g3 Nxg3 10. Qf2 Nxf1 11. Qxh4 Nxe3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "Nimzo-Indian 4.e3"]
+[Black "?"]
+[Result "*"]
+[ECO "E42"]
+[Annotator "game 109, depth=40 val=73 filter=[-50/60] sta"]
+[PlyCount "22"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. Nge2 cxd4 6. exd4 O-O 7. a3 Be7 8. d5
+exd5 9. cxd5 Re8 10. d6 Bf8 11. g3 Re6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "game 113, depth=38 val=103 filter=[-50/60] st"]
+[PlyCount "28"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. Nd3 Nf6 14. c5 Ng6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "Dutch Leningrad"]
+[Black "?"]
+[Result "*"]
+[ECO "A87"]
+[Annotator "game 115, depth=37 val=78 filter=[-50/60] sta"]
+[PlyCount "14"]
+[EventDate "2017.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Qe8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "Portuguese gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "game 122, depth=37 val=-55 filter=[-50/60] st"]
+[PlyCount "11"]
+[EventDate "2017.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. Bb5+ Nbd7 6. c4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "Traxler gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C47"]
+[Annotator "game 126, depth=36 val=93 filter=[-50/60] sta"]
+[PlyCount "8"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "Queen's Indian Petrosian"]
+[Black "?"]
+[Result "*"]
+[ECO "E12"]
+[Annotator "game 139, depth=40 val=64 filter=[-50/60] sta"]
+[PlyCount "14"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 c5 6. d5 exd5 7. cxd5 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "A60"]
+[Annotator "game 142, depth=38 val=69 filter=[-50/60] sta"]
+[PlyCount "10"]
+[EventDate "2017.??.??"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 b5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2017.12.11"]
+[Round "?"]
+[White "King's gambit 3.Nc3"]
+[Black "?"]
+[Result "*"]
+[ECO "C33"]
+[Annotator "game 145, depth=37 val=62 filter=[-50/60] sta"]
+[PlyCount "7"]
+[EventDate "2017.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "King's Indian Gligoric"]
+[Black "?"]
+[Result "*"]
+[ECO "E92"]
+[Annotator "game 149, depth=36 val=71 filter=[-50/60] sta"]
+[PlyCount "16"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 c6 8. d5 Na6
+*
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Dutch Classical"]
+[Black "?"]
+[Result "*"]
+[ECO "A97"]
+[Annotator "game 151, depth=36 val=76 filter=[-50/60] sta"]
+[PlyCount "14"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 e6 4. Bg2 Be7 5. c4 O-O 6. O-O d6 7. Nc3 Qe8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Benoni 7.f4"]
+[Black "?"]
+[Result "*"]
+[ECO "A67"]
+[Annotator "game 161, depth=37 val=-69 filter=[-50/60] st"]
+[PlyCount "19"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 Qh4+ 10. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Dutch 3... d6"]
+[Black "?"]
+[Result "*"]
+[ECO "A81"]
+[Annotator "game 162, depth=36 val=65 filter=[-50/60] sta"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 d6 4. Bg2 c6 5. c4 Qc7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "King's gambit 3.Nf3 g5"]
+[Black "?"]
+[Result "*"]
+[ECO "C37"]
+[Annotator "game 163, depth=35 val=78 filter=[-50/60] sta"]
+[PlyCount "11"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3 Bg7 5. d4 g4 6. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Traxler gambit 5.Bxf7+"]
+[Black "?"]
+[Result "*"]
+[ECO "C57"]
+[Annotator "game 166, depth=37 val=102 filter=[-50/60] st"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Bxf7+ Ke7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Modern Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B09"]
+[Annotator "game 167, depth=35 val=-67 filter=[-50/60] st"]
+[PlyCount "15"]
+[EventDate "2018.??.??"]
+
+1. d4 g6 2. e4 d6 3. Nc3 Bg7 4. f4 Nc6 5. Be3 Nf6 6. Nf3 O-O 7. Qd2 e6 8. O-O-O
+*
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Dutch Leningrad"]
+[Black "?"]
+[Result "*"]
+[ECO "A89"]
+[Annotator "game 170, depth=36 val=80 filter=[-50/60] sta"]
+[PlyCount "16"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8. d5
+Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "QGA Chigorin"]
+[Black "?"]
+[Result "*"]
+[ECO "D07"]
+[Annotator "game 173, depth=39 val=65 filter=[-50/60] sta"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nc6 4. Nf3 Nf6 5. Nc3 Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Czech Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "A56"]
+[Annotator "game 176, depth=38 val=-56 filter=[-50/60] st"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. g3 O-O 7. Bg2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "Slav Classical Bronstein"]
+[Black "?"]
+[Result "*"]
+[ECO "D16"]
+[Annotator "game 177, depth=37 val=68 filter=[-50/60] sta"]
+[PlyCount "18"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. f3 Nfd7 8.
+Nxc4 e5 9. g3 Bb4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.04.11"]
+[Round "?"]
+[White "King's Indian Mozny variation"]
+[Black "?"]
+[Result "*"]
+[ECO "E69"]
+[Annotator "game 179, depth=39 val=63 filter=[-50/60] sta"]
+[PlyCount "26"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. O-O Nbd7 7. Nc3 e5 8. e4
+c6 9. h3 Qb6 10. c5 dxc5 11. dxe5 Ne8 12. e6 fxe6 13. Ng5 Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E83"]
+[Annotator "game 181, depth=38 val=-63 filter=[-50/60] st"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "QGD Chigorin"]
+[Black "?"]
+[Result "*"]
+[ECO "D07"]
+[Annotator "game 188, depth=37 val=68 filter=[-50/60] sta"]
+[PlyCount "6"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Latvian gambit 3.Bc4"]
+[Black "?"]
+[Result "*"]
+[ECO "C40"]
+[Annotator "game 190, depth=38 val=-80 filter=[-50/60] st"]
+[PlyCount "5"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 f5 3. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Ruy Lopez Bird"]
+[Black "?"]
+[Result "*"]
+[ECO "C66"]
+[Annotator "game 198, depth=39 val=68 filter=[-50/60] sta"]
+[PlyCount "6"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "King's Indian 5.Be3"]
+[Black "?"]
+[Result "*"]
+[ECO "E73"]
+[Annotator "game 202, depth=38 val=73 filter=[-50/60] sta"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be3 O-O 6. Be2 Na6 7. Qd2 e5 8. d5
+Bd7 9. f3 Nh5 10. O-O-O f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Slav Classical"]
+[Black "?"]
+[Result "*"]
+[ECO "D17"]
+[Annotator "game 204, depth=41 val=70 filter=[-50/60] sta"]
+[PlyCount "18"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Na6 7. e3 Nb4 8. Bxc4
+e6 9. O-O Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Cochrane gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C51"]
+[Annotator "game 205, depth=35 val=-67 filter=[-50/60] st"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nxf7 Kxf7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Ruy Lopez 3... f5"]
+[Black "?"]
+[Result "*"]
+[ECO "C63"]
+[Annotator "game 209, depth=38 val=-56 filter=[-50/60] st"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. d3 fxe4 5. dxe4 Nf6 6. O-O d6 7. Bc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Old Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "A46"]
+[Annotator "game 210, depth=39 val=-79 filter=[-50/60] st"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 Be7 6. Be2 O-O 7. O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Dutch Leningrad"]
+[Black "?"]
+[Result "*"]
+[ECO "A87"]
+[Annotator "game 216, depth=36 val=75 filter=[-50/60] sta"]
+[PlyCount "14"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O d6 6. c4 O-O 7. Nc3 e6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Caro-Kann Larsen"]
+[Black "?"]
+[Result "*"]
+[ECO "B12"]
+[Annotator "game 217, depth=37 val=-57 filter=[-50/60] st"]
+[PlyCount "11"]
+[EventDate "2018.??.??"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "King's gambit 3.Nf3 h5"]
+[Black "?"]
+[Result "*"]
+[ECO "C77"]
+[Annotator "game 223, depth=35 val=79 filter=[-50/60] sta"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 h5 4. d4 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "game 224, depth=39 val=77 filter=[-50/60] sta"]
+[PlyCount "18"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.05.11"]
+[Round "?"]
+[White "Sicilian Najdorf 6.Bg5"]
+[Black "?"]
+[Result "*"]
+[ECO "B96"]
+[Annotator "game 225, depth=39 val=61 filter=[-50/60] sta"]
+[PlyCount "16"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Qe2 g6 8.
+O-O-O Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Budapest gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "A52"]
+[Annotator "game 233, depth=37 val=-59 filter=[-50/60] st"]
+[PlyCount "11"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4 Nc6 5. Nf3 Bb4+ 6. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Trompovsky"]
+[Black "?"]
+[Result "*"]
+[ECO "A45"]
+[Annotator "game 240, depth=37 val=63 filter=[-50/60] sta"]
+[PlyCount "12"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. Bg5 c5 3. Nc3 cxd4 4. Qxd4 Nc6 5. Qh4 d6 6. O-O-O Qa5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "QGD Chigorin"]
+[Black "?"]
+[Result "*"]
+[ECO "D07"]
+[Annotator "game 242, depth=38 val=-66 filter=[-50/60] st"]
+[PlyCount "7"]
+[EventDate "2018.??.??"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Sicilian Kan"]
+[Black "?"]
+[Result "*"]
+[ECO "B42"]
+[Annotator "game 258, depth=37 val=62 filter=[-50/60] sta"]
+[PlyCount "18"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O Qc7 7. Qe2 d6 8. c4
+g6 9. Nc3 Bg7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "King's Indian Samisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E87"]
+[Annotator "game 261, depth=37 val=64 filter=[-50/60] sta"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 Nh5 8. Qd2
+Qh4+ 9. g3 Nxg3 10. Qf2 Nxf1 11. Qxh4 Nxe3 12. Ke2 Nxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.06.07"]
+[Round "?"]
+[White "Sicilian Najdorf 6.Bg5"]
+[Black "?"]
+[Result "*"]
+[ECO "B97"]
+[Annotator "game 267, depth=36 val=66 filter=[-50/60] sta"]
+[PlyCount "26"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O Nbd7 10. g4 b5 11. Bxf6 Nxf6 12. g5 Nd7 13. f5 Nc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Modern Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B06"]
+[Annotator "game 274, depth=38 val=66 filter=[-50/60] sta"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "King's Indian Bayonet attack"]
+[Black "?"]
+[Result "*"]
+[ECO "E63"]
+[Annotator "game 275, depth=37 val=105 filter=[-50/60] st"]
+[PlyCount "22"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Ne8 10. c5 f5 11. Nd2 Nf6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Sicilian Rauzer"]
+[Black "?"]
+[Result "*"]
+[ECO "B67"]
+[Annotator "game 276, depth=38 val=-56 filter=[-50/60] st"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Bd7 7. Qd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Sicilian Najdorf 6.Be3"]
+[Black "?"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "game 282, depth=40 val=62 filter=[-50/60] sta"]
+[PlyCount "22"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Be7 9. Qd2 O-O 10. O-O-O Qc7 11. g4 Rc8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Old Indian"]
+[Black "?"]
+[Result "*"]
+[ECO "A53"]
+[Annotator "game 285, depth=40 val=64 filter=[-50/60] sta"]
+[PlyCount "8"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Two Knight's"]
+[Black "?"]
+[Result "*"]
+[ECO "C55"]
+[Annotator "game 286, depth=38 val=73 filter=[-50/60] sta"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Dutch Classical"]
+[Black "?"]
+[Result "*"]
+[ECO "A90"]
+[Annotator "game 291, depth=36 val=64 filter=[-50/60] sta"]
+[PlyCount "10"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. Nf3 O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Benoni Main line"]
+[Black "?"]
+[Result "*"]
+[ECO "A77"]
+[Annotator "game 293, depth=38 val=67 filter=[-50/60] sta"]
+[PlyCount "22"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. e4 Bg7 8. Nd2
+O-O 9. Be2 Re8 10. O-O Nbd7 11. a4 Ne5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Danish gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C41"]
+[Annotator "game 294, depth=37 val=61 filter=[-50/60] sta"]
+[PlyCount "9"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Vienna gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C48"]
+[Annotator "game 299, depth=37 val=-63 filter=[-50/60] st"]
+[PlyCount "6"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Benko gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "A57"]
+[Annotator "game 300, depth=39 val=72 filter=[-50/60] sta"]
+[PlyCount "12"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 g6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "Dutch Leningrad"]
+[Black "?"]
+[Result "*"]
+[ECO "A81"]
+[Annotator "game 305, depth=36 val=79 filter=[-50/60] sta"]
+[PlyCount "14"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "game 309, depth=35 val=66 filter=[-50/60] sta"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Dutch 2.Bf4"]
+[Black "?"]
+[Result "*"]
+[ECO "A80"]
+[Annotator "game 3, depth=36 val=-56 filter=[-50/60] stat"]
+[PlyCount "7"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. Bf4 Nf6 3. e3 g6 4. Nc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Frankenstein-Dracula gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C27"]
+[Annotator "game 13, depth=37 val=96 filter=[-50/60] stat"]
+[PlyCount "24"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 8.
+Qd5 Qf6 9. Nxc7+ Kd8 10. Nxa8 b6 11. Qd3 Bb7 12. Ne2 h5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Sicilian Kan 5.Bd3"]
+[Black "?"]
+[Result "*"]
+[ECO "B42"]
+[Annotator "game 15, depth=36 val=61 filter=[-50/60] stat"]
+[PlyCount "12"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5 6. Nb3 Be7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "King's Indian Sämisch"]
+[Black "?"]
+[Result "*"]
+[ECO "E81"]
+[Annotator "game 19, depth=36 val=-53 filter=[-50/60] sta"]
+[PlyCount "15"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 Nbd7 7. Nh3 c5 8. d5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Dutch Stonewall"]
+[Black "?"]
+[Result "*"]
+[ECO "A90"]
+[Annotator "game 21, depth=36 val=61 filter=[-50/60] stat"]
+[PlyCount "14"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. c4 c6 5. Qc2 d5 6. Nh3 Bd6 7. O-O O-O *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "King's Indian old mainline"]
+[Black "?"]
+[Result "*"]
+[ECO "E91"]
+[Annotator "game 26, depth=38 val=64 filter=[-50/60] stat"]
+[PlyCount "12"]
+[EventDate "2018.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 Nbd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Italian game"]
+[Black "?"]
+[Result "*"]
+[ECO "C50"]
+[Annotator "game 29, depth=34 val=65 filter=[-50/60] stat"]
+[PlyCount "20"]
+[EventDate "2018.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. c3 d6 6. Bg5 h6 7. Bh4 a5 8. O-O
+Ba7 9. Nbd2 g5 10. Bg3 Nd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Dutch Leningrad"]
+[Black "?"]
+[Result "*"]
+[ECO "A89"]
+[Annotator "game 35, depth=36 val=73 filter=[-50/60] stat"]
+[PlyCount "18"]
+[EventDate "2018.??.??"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. c4 d6 7. Nc3 Nc6 8. d5
+Ne5 9. Nxe5 dxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2018.12.09"]
+[Round "?"]
+[White "Sicilian Dragon"]
+[Black "?"]
+[Result "*"]
+[ECO "B78"]
+[Annotator "game 40, depth=38 val=-55 filter=[-50/60] sta"]
+[PlyCount "23"]
+[EventDate "2018.??.??"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. d4 cxd4 5. Nxd4 Bg7 6. Be3 Nf6 7. Bc4 O-O 8.
+Bb3 d6 9. f3 Bd7 10. Qd2 Rc8 11. O-O-O Ne5 12. Kb1 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Sicilian Keres Attack"]
+[Black "?"]
+[Result "*"]
+[ECO "B90"]
+[Annotator "game 1, depth=37 val=70 filter=[-50/60] statu"]
+[PlyCount "12"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 a6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "E98"]
+[Annotator "game 2, depth=34 val=72 filter=[-50/60] statu"]
+[PlyCount "24"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Nd3 f5 11. Bd2 Nf6 12. f3 f4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Frankenstein-Dracula gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C27"]
+[Annotator "game 3, depth=38 val=107 filter=[-50/60] stat"]
+[PlyCount "14"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4 4. Qh5 Nd6 5. Bb3 Nc6 6. Nb5 g6 7. Qf3 f5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Slav Bronstein 5... Bg4"]
+[Black "?"]
+[Result "*"]
+[ECO "D46"]
+[Annotator "game 10, depth=35 val=-75 filter=[-50/60] sta"]
+[PlyCount "15"]
+[EventDate "2019.??.??"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4 6. Ne5 Bh5 7. f3 Nfd7 8.
+Nxc4 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Owen's Defence"]
+[Black "?"]
+[Result "*"]
+[ECO "B04"]
+[Annotator "game 11, depth=36 val=-57 filter=[-50/60] sta"]
+[PlyCount "7"]
+[EventDate "2019.??.??"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "King's Indian Fianchetto"]
+[Black "?"]
+[Result "*"]
+[ECO "E68"]
+[Annotator "game 13, depth=38 val=61 filter=[-50/60] stat"]
+[PlyCount "22"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 d6 5. Bg2 O-O 6. Nc3 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Qb6 10. c5 dxc5 11. dxe5 Ne8 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Sicilian Dragon"]
+[Black "?"]
+[Result "*"]
+[ECO "B24"]
+[Annotator "game 14, depth=37 val=69 filter=[-50/60] stat"]
+[PlyCount "20"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Qa5 10. O-O-O Bd7 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Czech Benoni"]
+[Black "?"]
+[Result "*"]
+[ECO "A44"]
+[Annotator "game 16, depth=38 val=80 filter=[-50/60] stat"]
+[PlyCount "6"]
+[EventDate "2019.??.??"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Scandinavian"]
+[Black "?"]
+[Result "*"]
+[ECO "B01"]
+[Annotator "game 17, depth=36 val=-89 filter=[-50/60] sta"]
+[PlyCount "11"]
+[EventDate "2019.??.??"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. g3 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "The Black Lion"]
+[Black "?"]
+[Result "*"]
+[ECO "B07"]
+[Annotator "game 23, depth=36 val=61 filter=[-50/60] stat"]
+[PlyCount "10"]
+[EventDate "2019.??.??"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. g4 h6 5. h3 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "QGD Chigorin"]
+[Black "?"]
+[Result "*"]
+[ECO "D07"]
+[Annotator "game 31, depth=36 val=68 filter=[-50/60] stat"]
+[PlyCount "12"]
+[EventDate "2019.??.??"]
+
+1. d4 d5 2. c4 Nc6 3. Nf3 Bg4 4. cxd5 Bxf3 5. gxf3 Qxd5 6. e3 e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Traxler gambit"]
+[Black "?"]
+[Result "*"]
+[ECO "C57"]
+[Annotator "game 37, depth=36 val=119 filter=[-50/60] sta"]
+[PlyCount "8"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "King's Indian Mar del Plata"]
+[Black "?"]
+[Result "*"]
+[ECO "E99"]
+[Annotator "game 39, depth=38 val=91 filter=[-50/60] stat"]
+[PlyCount "24"]
+[EventDate "2019.??.??"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 *
+
+[Event "?"]
+[Site "?"]
+[Date "2019.02.24"]
+[Round "?"]
+[White "Sicilian Najdorf 6.Be3"]
+[Black "?"]
+[Result "*"]
+[ECO "B80"]
+[Annotator "game 40, depth=35 val=61 filter=[-50/60] stat"]
+[PlyCount "18"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. f3 Be7 8. Qd2
+Nc6 9. O-O-O O-O *
+
