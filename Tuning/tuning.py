@@ -18,8 +18,8 @@ from noisyopt import minimizeCompass, minimizeSPSA
 from termcolor import colored
 
 # for all methods
-threads = 8
-ngames = 100
+threads = 7
+ngames = 50
 
 # for naive method
 nloops = 100
@@ -40,7 +40,7 @@ engine_param_cmd = ' option.{name}={value}'
 opponents = [ 'conf=minic_dev_uci' ]
 
 # Additional cutechess-cli options, eg. time control and opening book
-options = '-each tc=1 -openings file=/ssd/Minic/Book_and_Test/OpeningBook/Hert500.pgn format=pgn order=random plies=24 -draw movenumber=80 movecount=5 score=5 -resign movecount=5 score=600 -pgnout out.pgn'
+options = '-each tc=0.5+0.02 -openings file=/ssd/Minic/Book_and_Test/OpeningBook/Hert500.pgn format=pgn order=random plies=24 -draw movenumber=80 movecount=5 score=5 -resign movecount=5 score=600 -pgnout out.pgn'
 
 # parameters to optimize
 params = [
@@ -51,16 +51,16 @@ params = [
   #["staticNullMoveDepthInit0", 0, 300, 0],
   #["staticNullMoveDepthInit1", 0, 300, 0],
   
-  ["PawnValueMG"  , 0 , 2000, 500 ],
-  ["PawnValueEG"  , 0 , 2000, 500 ],
-  ["KnightValueMG", 0 , 2000, 500 ],
-  ["KnightValueEG", 0 , 2000, 500 ],
-  ["BishopValueMG", 0 , 2000, 500 ],
-  ["BishopValueEG", 0 , 2000, 500 ],
-  ["RookValueMG"  , 0 , 2000, 500 ],
-  ["RookValueEG"  , 0 , 2000, 500 ],
-  ["QueenValueMG" , 0 , 2000, 500 ],
-  ["QueenValueEG" , 0 , 2000, 500 ],
+  #["PawnValueMG"  , 0 , 2000, 500 ],
+  #["PawnValueEG"  , 0 , 2000, 500 ],
+  #["KnightValueMG", 0 , 2000, 500 ],
+  #["KnightValueEG", 0 , 2000, 500 ],
+  #["BishopValueMG", 0 , 2000, 500 ],
+  #["BishopValueEG", 0 , 2000, 500 ],
+  #["RookValueMG"  , 0 , 2000, 500 ],
+  #["RookValueEG"  , 0 , 2000, 500 ],
+  #["QueenValueMG" , 0 , 2000, 500 ],
+  #["QueenValueEG" , 0 , 2000, 500 ],
   
   #["razoringMarginDepthCoeff0", 0, 500, 0],
   #["razoringMarginDepthCoeff1", 0, 500, 0],
@@ -69,11 +69,10 @@ params = [
   #["razoringMaxDepth0", 0, 15, 3],
   #["razoringMaxDepth1", 0, 15, 3],
 
-  #["historyPruningMaxDepth", 1, 15, 3],
-  #["historyPruningThresholdInit", -500, 500, 0],
-  #["historyPruningThresholdDepth", -500, 500, 0],
-
-  #["CMHMaxDepth", 0, 15, 4],
+  ["historyPruningMaxDepth", 1, 15, 3],
+  ["historyPruningThresholdInit", -500, 500, 0],
+  ["historyPruningThresholdDepth", -500, 500, 0],
+  ["CMHMaxDepth", 0, 15, 4],
 
   #["failHighReductionThresholdInit0", 0, 300, 117],
   #["failHighReductionThresholdInit1", 0, 300, 93],
@@ -93,11 +92,15 @@ def run_one(i,fcp,scp,ngames):
    print("Running game {}/{}   \r".format(i+1,ngames), end='')
          
    # Run cutechess-cli and wait for it to finish
-   process = Popen(command, shell = True, stdout = PIPE)
-   output = process.communicate()[0]
+   process = Popen(command, shell = True, stdout = PIPE, stderr = PIPE)
+   output, err = process.communicate()
    if process.returncode != 0:
        sys.stderr.write('failed to execute command: %s\n' % command)
        return None
+
+   # track down time forfeit
+   if "time" in str(output):
+       print(colored(output,'red'))
 
    # Convert Cutechess-cli's result into +1 0 -1
    # Note that only one game is played
