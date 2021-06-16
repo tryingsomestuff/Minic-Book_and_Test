@@ -1,0 +1,434 @@
+[Event "Albin-Countergambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "1"]
+[Result "*"]
+
+1.d4 d5 2.c4 e5 *
+
+[Event "Elephant-gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "2"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 d5 *
+
+[Event "Benko-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "3"]
+[Result "*"]
+
+1.d4 Nf6 2.c4 c5 3.d5 b5 *
+
+[Event "Blackmar-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "4"]
+[Result "*"]
+
+1.d4 d5 2.e4 dxe4 *
+
+[Event "Blackmar-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "5"]
+[Result "*"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Nf6 4.f3 exf3 5.Nxf3 *
+
+[Event "Blackmar-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "6"]
+[Result "*"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 e5 *
+
+[Event "Blackmar-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "7"]
+[Result "*"]
+
+1.d4 d5 2.e4 dxe4 3.Nc3 Bf5 *
+
+[Event "Danish-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "8"]
+[Result "*"]
+
+1.e4 e5 2.d4 exd4 3.c3 *
+
+[Event "Evans-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "9"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 *
+
+[Event "Halasz-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "10"]
+[Result "*"]
+
+1.e4 e5 2.d4 exd4 3.f4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "11"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "12"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "13"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "14"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "15"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "16"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "17"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "18"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.0-0 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "19"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "20"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "21"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 g4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "22"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 h6 4.d4 g5 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "23"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Nf6 4.e5 Nh5 5.d4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "24"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 Ne7 4.d4 Ng6 5.Bc4 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "25"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.Bc4 Qh4+ 4.Kf1 *
+
+[Event "Kings-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "26"]
+[Result "*"]
+
+1.e4 e5 2.f4 exf4 3.d4 Qh4+ 4.Ke2 *
+
+[Event "Blumenfeld-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "27"]
+[Result "*"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5 *
+
+[Event "Budapest-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "28"]
+[Result "*"]
+
+1.d4 Nf6 2.c4 e5 *
+
+[Event "French-Wing-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "29"]
+[Result "*"]
+
+1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4 *
+
+[Event "Bird"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "30"]
+[Result "*"]
+
+1.f4 e5 2.fxe5 d6 *
+
+[Event "Blackburne-Shilling-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "31"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4 4.Nxe5 Qg5 *
+
+[Event "Rousseau-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "32"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 f5 *
+
+[Event "Cochrane-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "33"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nxf7 *
+
+[Event "Cochrane-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "34"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Qe7 4.d4 d6 *
+
+[Event "Cochrane-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "35"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 Qe7 4.d4 Nxe4 5.Bc4 *
+
+[Event "Goering-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "36"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 *
+
+[Event "Goering-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "37"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Bc4 *
+
+[Event "Goering-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "38"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 *
+
+[Event "Scotch-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "39"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+ 5.c3 dxc3 *
+
+[Event "Krejcik-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "40"]
+[Result "*"]
+
+1.e4 Nf6 2.Bc4 Nxe4 3.Bxf7+ Kxf7 4.Qh5+ Ke6 *
+
+[Event "Blackmar-Gambit"]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "41"]
+[Result "*"]
+
+1.d4 d5 2.e4 dxe4 3.Bc4 Nf6 4.Nc3 Bg4 5.f3 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "42"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. Nc3 fxe4 5. Nxe4 d5 6. Nxe5 dxe4 7. Nxc6
+Qg5 8. Qe2 Nf6 9. f4 Qxf4 10. Nxa7+ Bd7 11. Bxd7+ Kxd7 12. Qb5+ Ke6 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "43"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O dxc3
+8. Qb3 Qf6 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "44"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nh3 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "45"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. Nxf7 Kxf7 7. Qf3+
+Ke6 8. Nc3 Nb4 9. O-O c6 10. d4 Qf6 11. Qe2 Ke7 12. dxe5 Qg6 13. Ne4 Bf5
+14. f3 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "46"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 c5 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "47"]
+[Result "*"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 exd4 6. Bc4 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "48"]
+[Result "*"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. c4 e6 6. dxe6 Nc6 7. Be3 Qe7 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "49"]
+[Result "*"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4 dxe4 5. Nxe4 Bb4+ 6. Bd2 Qxd4 7. Bxb4
+Qxe4+ *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "50"]
+[Result "*"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4
+g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. exf6 Bb7 12. g3 Qb6 13. Bg2 O-O-O 14. O-O
+c5 15. d5 b4 16. Rb1 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "51"]
+[Result "*"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Qa5+ 5. c3 Nf6 6. d5 Qb6 7. e4 Qxb2 8.
+Nd2 Qxc3 9. Bc7 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "52"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. f3 e6 6. e4 exd5 7. e5 Qe7 8. Qe2
+Ng8 9. Nc3 Bb7 10. Nh3 c4 *
+
+[Event *YAT*]
+[Site "Deventer"]
+[Date "2021.04.21"]
+[Round "53"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nf3 b5 5. dxe6 fxe6 6. cxb5 a6 7. e3 Be7 *
+
